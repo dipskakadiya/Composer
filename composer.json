@@ -10,7 +10,7 @@
         "email": "dipesh.kakadiya111@gmail.com",
         "homepage": "http://connect2dips.com"
     }],
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0.0",
     "prefer-stable": true,
     "type": "wordpress-plugin",
     "support": {
