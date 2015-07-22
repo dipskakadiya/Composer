@@ -1,0 +1,25 @@
+{
+    "name": "dipeshkakadiya/composer",
+    "description": "Wordpress Plugin with composer",
+    "keywords": ["wordpress", "plugin", "composer"],
+    "homepage": "http://connect2dips.com",
+    "license": "GPL-2.0+",
+    "authors": [{
+        "name": "Dipesh",
+        "email": "dipesh.kakadiya111@gmail.com",
+        "homepage": "http://connect2dips.com"
+    }],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "type": "wordpress-plugin",
+    "support": {
+		"issues": "https://github.com/dipskakadiya/Composer",
+		"forum": "https://wordpress.org/support/plugin/nginx-helper",
+		"wiki": "https://github.com/dipskakadiya/Composer",
+		"source": "https://github.com/dipskakadiya/Composer"
+	},
+    "require": {
+        "php": ">=5.4",
+        "composer/installers": "^1.0"
+    },
+}
