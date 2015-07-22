@@ -3,6 +3,7 @@
     "description": "Wordpress Plugin with composer",
     "keywords": ["wordpress", "plugin", "composer"],
     "homepage": "http://connect2dips.com",
+    "version": "1.0.0"
     "license": "GPL-2.0+",
     "authors": [{
         "name": "Dipesh",
@@ -18,6 +19,11 @@
 		"wiki": "https://github.com/dipskakadiya/Composer",
 		"source": "https://github.com/dipskakadiya/Composer"
 	},
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/dipskakadiya/Composer.git"
+    }],
     "require": {
         "php": ">=5.4",
         "composer/installers": "^1.0"
