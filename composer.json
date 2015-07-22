@@ -3,7 +3,7 @@
     "description": "Wordpress Plugin with composer",
     "keywords": ["wordpress", "plugin", "composer"],
     "homepage": "http://connect2dips.com",
-    "version": "1.0.0"
+    "version": "1.0.0",
     "license": "GPL-2.0+",
     "authors": [{
         "name": "Dipesh",
