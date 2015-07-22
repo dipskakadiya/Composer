@@ -1,6 +1,7 @@
 {
     "name": "dipeshkakadiya/composer",
     "description": "Wordpress Plugin with composer",
+    "version": 1.0.0-alpha,
     "keywords": ["wordpress", "plugin", "composer"],
     "homepage": "http://connect2dips.com",
     "license": "GPL-2.0+",
@@ -21,5 +22,5 @@
     "require": {
         "php": ">=5.4",
         "composer/installers": "^1.0"
-    },
+    }
 }
