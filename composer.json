@@ -1,7 +1,6 @@
 {
     "name": "dipeshkakadiya/composer",
     "description": "Wordpress Plugin with composer",
-    "version": "1.0.0",
     "keywords": ["wordpress", "plugin", "composer"],
     "homepage": "http://connect2dips.com",
     "license": "GPL-2.0+",
@@ -10,7 +9,7 @@
         "email": "dipesh.kakadiya111@gmail.com",
         "homepage": "http://connect2dips.com"
     }],
-    "minimum-stability": "1.0.0",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "type": "wordpress-plugin",
     "support": {
@@ -21,6 +20,6 @@
 	},
     "require": {
         "php": ">=5.4",
-        "composer/installers": "^1.0-dev"
+        "composer/installers": "^1.0"
     }
 }
